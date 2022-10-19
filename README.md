@@ -21,4 +21,4 @@ python tools/train_net_mcd.py --config ./configs/sf/dut_hcmus.yaml OUTPUT_DIR ou
 
 #### Ackonwledgement
 
-The code is based on FCOS. For enquiries please contact xliu423-c@my.cityu.edu.hk.
+The code is based on [FCOS](https://github.com/tianzhi0549/FCOS). For enquiries please contact xliu423-c@my.cityu.edu.hk.
